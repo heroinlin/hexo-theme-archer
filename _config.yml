@@ -8,7 +8,7 @@ signature: witness me
 # SNS
 social:
   email: heroinlj@gmail.com
-  github: //github.com/heroinlin
+  github: https://github.com/heroinlin
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
   qq: 
