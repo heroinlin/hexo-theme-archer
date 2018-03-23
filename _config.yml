@@ -47,6 +47,7 @@ post_header_image: '/intro/post-bg.jpg'
 # 404 image
 _404_image: '/intro/404-bg.jpg'
 
+
 # ========== Comment ========== #
 # Fill in the field to enable the corresponding comment plugin
 # If you want to add other comment plugin, edit in "custom.ejs"
@@ -74,6 +75,9 @@ baidu_analytics:
 google_analytics: 
 # CNZZ analytics
 CNZZ_analytics: 
+
+# MathJax Support
+mathjax: true
 
 # ========== Others ========== #
 # favicon
